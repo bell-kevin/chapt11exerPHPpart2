@@ -54,7 +54,7 @@ Task 4: Date and Time Functions
 
 Follow the instructions in this section to change the images.php script to display the file size and date/time stamp of each file in the uploads directory. After it is working, make the following changes. (a) Change the default time one to "America/Denver", to get Mountain Standard Time instead of Eastern. (See https://www.php.net/manual/en/timezones.america.php Links to an external site.for a list of PHP time zones.) Look at Table 11.4 in the book for the different formatting options, and change the format of the output displayed. (b) Instead of spelling out the month name, use the 3-letter version. (c) Change the time from 24-hour format to 12-hour format and (d) add the "am" or "pm" at the end. (e) The hour should be 1 or 2 digits, so it prints 4 instead of 04. After these changes are working, take a screenshot of a different one of the images in your uploads folder, with the details of all the images visible on the screen. This may require making the left margin in the CSS larger, moving the text more to the right to make it visible next to the image. Here is an example:
 
-![ch11-datetime.PNG}(https://github.com/bell-kevin/chapt11exerPHPpart2/blob/main/pictures/ch11-datetime.PNG)
+![ch11-datetime.PNG](https://github.com/bell-kevin/chapt11exerPHPpart2/blob/main/pictures/ch11-datetime.PNG)
 
  
 
