@@ -16,7 +16,7 @@ The book mentions the phpinfo() function. Create a PHP script that contains a si
 
 Run the script; the results contains a lot more than what you see in the image in the book. Scroll down through the output until you find the file-handling information mentioned in the book, the fields labeled as file_uploads, post_max_size, upload_max_filesize, upload_tmp_dir. It will look similar to this:
 
-ch11-phpInfo.PNG 
+![ch11-phpInfo.PNG](https://github.com/bell-kevin/chapt11exerPHPpart2/blob/main/pictures/ch11-phpInfo.PNG)
 
 Note the yellow box, which contains the sendmail_path information you edited in Task 1. Take a screenshot of the portion of the phpinfo information for your system that shows the same data as in the example.
 
@@ -24,17 +24,13 @@ Continue with this section in the book, creating the upload_image.php script. Be
 
 Make some modifications to the form in the CSS, so that the font size is larger, the width is 50%, and the right and left margins are "auto" to center that 50% width on the page. When you have successfully uploaded an image, take a screenshot of the success message, which should resemble this:
 
-ch11-file-success.PNG 
+![ch11-file-success.PNG](https://github.com/bell-kevin/chapt11exerPHPpart2/blob/main/pictures/ch11-file-success.PNG)
 
 Run the script at least 4 times, to upload at least 4 images. These images will be needed in the next part. Use images of different sizes, mixing .jpg and .png images.
 
 Take a screenshot of the xampp/uploads file folder, showing at least two images in it. Be sure to include the path name in the screenshot. In this example, there are 4 files that were uploaded during testing. Note that they were stored in the xampp/uploads folder.
 
-ch11-file-uploads.PNG 
-
- 
-
- 
+![ch11-file-uploads.PNG](https://github.com/bell-kevin/chapt11exerPHPpart2/blob/main/pictures/ch11-file-uploads.PNG)
 
 Task 3: PHP and JavaScript
 
@@ -50,17 +46,15 @@ The book references an image that says "Unavailable". You can find it in the tex
 
 Once you have gotten these scripts to work, add some CSS to the images.php file, embedded in the head tag. Make the text of the page a little more visible by increasing the font size and moving the text toward the center. Make the font-size at least x-large; use a left margin of 40% to move the lines of output toward the middle of the page; use a top margin of 50px to move it downward on the page. Take a screenshot of the page with one of the images displayed. That screenshot needs to show both the image and some of the text of the page, like this:
 
-ch11-imagePopup.PNG 
+![ch11-imagePopup.PNG](https://github.com/bell-kevin/chapt11exerPHPpart2/blob/main/pictures/ch11-imagePopup.PNG)
 
 If necessary, move the text on the page even farther to the right, so that the pop-up window with the image doesn't completely cover the text. This screenshot needs to show both the text of the page and the image pop-up in the top left.
-
- 
 
 Task 4: Date and Time Functions
 
 Follow the instructions in this section to change the images.php script to display the file size and date/time stamp of each file in the uploads directory. After it is working, make the following changes. (a) Change the default time one to "America/Denver", to get Mountain Standard Time instead of Eastern. (See https://www.php.net/manual/en/timezones.america.php Links to an external site.for a list of PHP time zones.) Look at Table 11.4 in the book for the different formatting options, and change the format of the output displayed. (b) Instead of spelling out the month name, use the 3-letter version. (c) Change the time from 24-hour format to 12-hour format and (d) add the "am" or "pm" at the end. (e) The hour should be 1 or 2 digits, so it prints 4 instead of 04. After these changes are working, take a screenshot of a different one of the images in your uploads folder, with the details of all the images visible on the screen. This may require making the left margin in the CSS larger, moving the text more to the right to make it visible next to the image. Here is an example:
 
-ch11-datetime.PNG 
+![ch11-datetime.PNG}(https://github.com/bell-kevin/chapt11exerPHPpart2/blob/main/pictures/ch11-datetime.PNG)
 
  
 
