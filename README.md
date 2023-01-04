@@ -67,4 +67,4 @@ Popup of one of the images plus the list of files to the right.
 Popup of another image plus the list of files to the right with date and time information, using 3-letter month abbreviation, 2-digit day, 4-digit year, time in 12-hour format with am/pm using 1 or 2 digits for the hour.
  
 
-Submission: Zip all the files required for successful running of the scripts, and include the 5 specified screenshots. Submit the single zip folder
+Submission: Zip all the files required for successful running of the scripts, and include the 5 specified screenshots. Submit the single zip folder.
