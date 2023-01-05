@@ -44,7 +44,7 @@ Take a screenshot of the xampp/uploads file folder, showing at least two images 
 
 ![p](https://github.com/bell-kevin/chapt11exerPHPpart2/blob/main/chap11exerPart2/pictures/task2-7uploadProof.PNG)
 
-![p](
+![p](https://github.com/bell-kevin/chapt11exerPHPpart2/blob/main/chap11exerPart2/pictures/2.10.PNG)
 
 ![p](
 
