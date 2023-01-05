@@ -32,6 +32,36 @@ Take a screenshot of the xampp/uploads file folder, showing at least two images 
 
 ![ch11-file-uploads.PNG](https://github.com/bell-kevin/chapt11exerPHPpart2/blob/main/pictures/ch11-file-uploads.PNG)
 
+![p](https://github.com/bell-kevin/chapt11exerPHPpart2/blob/main/chap11exerPart2/pictures/task2-1phpInfo.PNG)
+
+![p](https://github.com/bell-kevin/chapt11exerPHPpart2/blob/main/chap11exerPart2/pictures/task2-4picPreUpload.PNG)
+
+![p](https://github.com/bell-kevin/chapt11exerPHPpart2/blob/main/chap11exerPart2/pictures/task2-2picUploadSuccess.PNG)
+
+![p](https://github.com/bell-kevin/chapt11exerPHPpart2/blob/main/chap11exerPart2/pictures/task2-5errorPicTooBig.PNG)
+
+![p](https://github.com/bell-kevin/chapt11exerPHPpart2/blob/main/chap11exerPart2/pictures/task2-6errorWrongFileType.PNG)
+
+![p](https://github.com/bell-kevin/chapt11exerPHPpart2/blob/main/chap11exerPart2/pictures/task2-7uploadProof.PNG)
+
+![p](
+
+![p](
+
+![p](
+
+![p](
+
+![p](
+
+![p](
+
+![p](
+
+![p](
+
+![p](
+
 ## Task 3: PHP and JavaScript
 
 Create the files for the JavaScript file, function.js, and the PHP files images.php and show_images.php, as directed in the book.
