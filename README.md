@@ -60,11 +60,32 @@ Follow the instructions in this section to change the images.php script to displ
 
 Screenshots: The 5 screenshots are:
 
-the phpinfo page showing fields for upload file size and temp directory, etc.
-success message after file upload.
-XAMPP upload folder, showing at least 2 files.
-Popup of one of the images plus the list of files to the right.
-Popup of another image plus the list of files to the right with date and time information, using 3-letter month abbreviation, 2-digit day, 4-digit year, time in 12-hour format with am/pm using 1 or 2 digits for the hour.
+1. the phpinfo page showing fields for upload file size and temp directory, etc.
+2. success message after file upload.
+3. XAMPP upload folder, showing at least 2 files.
+4. Popup of one of the images plus the list of files to the right.
+5. Popup of another image plus the list of files to the right with date and time information, using 3-letter month abbreviation, 2-digit day, 4-digit year, time in 12-hour format with am/pm using 1 or 2 digits for the hour.
  
 
 Submission: Zip all the files required for successful running of the scripts, and include the 5 specified screenshots. Submit the single zip folder.
+
+== We're Using GitHub Under Protest ==
+
+This project is currently hosted on GitHub.  This is not ideal; GitHub is a
+proprietary, trade-secret system that is not Free and Open Souce Software
+(FOSS).  We are deeply concerned about using a proprietary system like GitHub
+to develop our FOSS project. I have a [website](https://bellKevin.me) where the
+project contributors are actively discussing how we can move away from GitHub
+in the long term.  We urge you to read about the [Give up GitHub](https://GiveUpGitHub.org) campaign 
+from [the Software Freedom Conservancy](https://sfconservancy.org) to understand some of the reasons why GitHub is not 
+a good place to host FOSS projects.
+
+If you are a contributor who personally has already quit using GitHub, please
+email me at **bellKevin@pm.me** for how to send us contributions without
+using GitHub directly.
+
+Any use of this project's code by GitHub Copilot, past or present, is done
+without our permission.  We do not consent to GitHub's use of this project's
+code in Copilot.
+
+![Logo of the GiveUpGitHub campaign](https://sfconservancy.org/img/GiveUpGitHub.png)
