@@ -44,6 +44,8 @@ These 3 files all go into your ch11 htdocs folder (xampp/htdocs/ch11). The image
 
 The book references an image that says "Unavailable". You can find it in the textbook download files. In the ch11 htdocs folder, create a new folder named "images" and put that image file there (xampp/htdocs/ch11/images/unavailable.png).
 
+(Note from Kevin: Make sure your JavaScript file in inside the PHP file, or else it will not work.)
+
 Once you have gotten these scripts to work, add some CSS to the images.php file, embedded in the head tag. Make the text of the page a little more visible by increasing the font size and moving the text toward the center. Make the font-size at least x-large; use a left margin of 40% to move the lines of output toward the middle of the page; use a top margin of 50px to move it downward on the page. Take a screenshot of the page with one of the images displayed. That screenshot needs to show both the image and some of the text of the page, like this:
 
 ![ch11-imagePopup.PNG](https://github.com/bell-kevin/chapt11exerPHPpart2/blob/main/pictures/ch11-imagePopup.PNG)
