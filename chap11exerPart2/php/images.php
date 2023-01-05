@@ -21,7 +21,7 @@
 		// This version now shows each image's file size and uploaded date and time.
 
 		// Set the default timezone:
-		date_default_timezone_set('America/New_York');
+		date_default_timezone_set('America/Denver');
 
 		$dir = '../uploads'; // Define the directory to view.
 
@@ -39,7 +39,7 @@
 				$file_size = round((filesize("$dir/$image")) / 1024) . "kb";
 
 				// Determine the image's upload date and time:
-				$image_date = date("F d, Y H:i:s", filemtime("$dir/$image"));
+				$image_date = date("M d, Y h:i:s a", filemtime("$dir/$image"));
 
 				// Make the image's name URL-safe:
 				$image_name = urlencode($image);
